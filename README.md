@@ -1,4 +1,4 @@
-# Project Game Persona - Level Based Persona Recongnition
+# Project Game Persona - Level Based Persona Recongnitio
 
 ![Image](https://github.com/TarikKaanKoc/Rule-Based-Classification/blob/main/image/image.jpeg?raw=True) 
 ---
